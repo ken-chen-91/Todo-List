@@ -1,5 +1,4 @@
-import {
-  Avatar,
+import {Avatar,
   ImageIcon,
   List,
   ListItem,
